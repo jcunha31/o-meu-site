@@ -34,7 +34,7 @@ a:hover {
 .cursor2,
 .cursor3{
 	position: fixed;
-	border-radius: 50%;	
+	border-radius: 50%;
 	transform: translateX(-50%) translateY(-50%);
 	pointer-events: none;
 	left: -100px;
@@ -235,8 +235,8 @@ body.about-on .about-section {
 	font-weight: 00;
 	color: #333f66;
 	font-size: 20px;
-	
-	
+
+
 }
 
 .contact-text {
@@ -253,7 +253,7 @@ body.about-on .about-section {
 	z-index: 2;
 	-webkit-writing-mode: vertical-lr;
 	writing-mode: horizontal-tb;
-	transform: translateY(-90%) 
+	transform: translateY(-90%)
 }
 .contact-text:hover {
 	opacity: 1;
@@ -435,7 +435,7 @@ body.nature-on .nature-section {
 
 
 @media (max-width: 1200px) {
-	
+
 }
 
 @media (max-width: 967px) {
